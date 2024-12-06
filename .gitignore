@@ -1,0 +1,5 @@
+venv/
+.vscode/
+__pycache__/
+desktop.ini
+vector_database.index
